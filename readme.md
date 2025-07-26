@@ -113,7 +113,7 @@
 ## 🔗 What to Submit
 
 - 📂 **GitHub Repository: https://github.com/ProgrammingHero1/B12A02-Responsive-Flowers**
-- 🌐 **Live Link:**
+- 🌐 **Live Link: https://gmsakibursabbir.github.io/B12A02-Responsive-Flowers/**
 
 ---
 
