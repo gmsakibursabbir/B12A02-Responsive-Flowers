@@ -93,7 +93,6 @@
 - Create an Animation for Trusted Plant Lover Badge
 
   - It will Spin infinite times
-
 - Show an Alert with a message `"Flower Added to Cart"` when some one click on **Add to Cart** Button
 
 ## ⚙️ Technology Stack
@@ -113,7 +112,7 @@
 
 ## 🔗 What to Submit
 
-- 📂 **GitHub Repository:**
+- 📂 **GitHub Repository: https://github.com/ProgrammingHero1/B12A02-Responsive-Flowers**
 - 🌐 **Live Link:**
 
 ---
